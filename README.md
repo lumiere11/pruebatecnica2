@@ -6,7 +6,7 @@ npm or yarn
 Clonar repositorio:
 
 ```sh
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/lumiere11/pruebatecnica2.git
 ```
 Cambiar al directorio del proyecto:
 ```sh
